@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable systems, cr
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/pushpendra-singh-6207b5224/))   
+- [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/pushpendra-singh-6207b5224/))   
 - [Email](mailto:psinghrajput907@gmail)  
 
 ---
